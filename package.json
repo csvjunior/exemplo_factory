@@ -1,0 +1,15 @@
+{
+  "name": "exemplo_factory",
+  "version": "1.0.0",
+  "description": "exemplo do padrão factory",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "clovis junior",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^18.11.9",
+    "typescript": "^4.8.4"
+  }
+}
